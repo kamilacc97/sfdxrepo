@@ -3,6 +3,7 @@
     <types>
         <members>Test2__c</members>
         <members>ToDelete__c</members>
+        <members>Post__c</members>
         <name>CustomObject</name>
     </types>
     <types>
