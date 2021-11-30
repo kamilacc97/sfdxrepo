@@ -5,6 +5,7 @@
         <members>ToDelete__c</members>
         <members>Post__c</members>
         <members>testsDe__c</members>
+        <members>ToDelete01__c</members>
         <name>CustomObject</name>
     </types>
     <types>
