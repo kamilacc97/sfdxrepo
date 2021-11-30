@@ -4,7 +4,6 @@
         <members>Test1__c</members>
         <members>Test__c</members>
         <members>Pre__c</members>
-        <members>TestDeleteAndDeploy__c</members>
         <name>CustomObject</name>
     </types>
     <types>
