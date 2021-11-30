@@ -4,5 +4,9 @@
         <members>TestDeleteAndDeploy__c</members>
         <name>CustomObject</name>
     </types>
+    <types>
+        <members>TestDeleteAndDeploy__c.All</members>
+        <name>ListView</name>
+    </types>
     <version>53.0</version>
 </Package>
