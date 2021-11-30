@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-<<<<<<< HEAD
-        <members>Test1__c</members>
-        <members>Test__c</members>
-        <members>Pre__c</members>
-         <members>TestDeleteAndDeploy__c</members>
-=======
         <members>TestDeleteAndDeploy__c</members>
->>>>>>> ba3a602 (up)
         <name>CustomObject</name>
     </types>
     <version>53.0</version>
